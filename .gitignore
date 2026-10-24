@@ -7,3 +7,6 @@ dist/
 build/
 .DS_Store
 *.log
+backend/database.db
+*.db
+*.sqlite
